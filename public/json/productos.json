@@ -1,0 +1,192 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1, 
+        "nombre": "Pizza Extra Cheese",
+        "contenido": "Cuatro quesos, peperoni, morrón, aceitunas",
+        "precio": 1700,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/pizzaink.jpg?alt=media&token=a5192021-f5f8-43e4-ad44-8e871f0e54b9"
+    },
+
+    {
+        "id": 2,
+        "idCategoria": 2,
+        "nombre": "Pizza Vegana",
+        "contenido": "Vegetales",
+        "precio": 1500,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/vegana.jpg?alt=media&token=530f0117-c643-408d-8ec9-c54bc2676dc1"
+    },
+
+    {
+        "id": 3,
+        "idCategoria": 5,
+        "nombre": "Hamburguesas con nuggets",
+        "contenido": "Tres hamburguesas y nuggets",
+        "precio": 3100,
+        "stock": 15,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/promohamburguesaypapasink.jpg?alt=media&token=b8109a64-3e2c-4c31-9665-af541defd773"
+    },
+
+    {
+        "id": 4,
+        "idCategoria": 5,
+        "nombre": "Dos hamburguesas",
+        "contenido": "Dos hamburguesas a elección",
+        "precio": 2500,
+        "stock": 21,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/promohamburguesasink.jpg?alt=media&token=e640b549-3051-465e-b814-648793d9bf04"
+    },
+
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Pizza Vegana",
+        "contenido": "Verduras salteadas, jalapeños, aceitunas, albahaca",
+        "precio": 1600,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/pizzaveganaink.jpg?alt=media&token=d8982326-1bc0-4c69-be75-38efc81d27e0"
+    },
+
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Pizza Vegana",
+        "contenido": "Verduras salteadas, jalapeños, aceitunas, albahaca",
+        "precio": 1700,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/pizzaveganaink.jpg?alt=media&token=3330020b-55fb-4fa6-afe7-b3d44349a8bd"
+    },
+
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Pizza Vegana",
+        "contenido": "Verduras varias",
+        "precio": 1800,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/pizza%20vegana.jpg?alt=media&token=c0be25a7-39ce-45bc-ade1-79ccbd27f284"
+    },
+
+    {
+        "id": 8,
+        "idCategoria": 1,
+        "nombre": "Pizza Ink",
+        "contenido": "Especialidad de la casa",
+        "precio": 1450,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/pizaa%20(2).jpg?alt=media&token=5f7c4fea-4108-40b5-9ef1-f6989c07b681"
+    },
+
+    {
+        "id": 9,
+        "idCategoria": 4,
+        "nombre": "Papas fritas",
+        "contenido": "Cheddar y BBQ a elección",
+        "precio": 1300,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/minutasInk.jpg?alt=media&token=5c725af1-20a6-4019-8ca2-13f0a8dcdac9"
+    },
+
+    {
+        "id": 10,
+        "idCategoria": 5,
+        "nombre": "Hamburguesas",
+        "contenido": "Cuatro hamburguesas a elección",
+        "precio": 4500,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/hamburguesas.jpg?alt=media&token=6f215f77-21fc-4171-a79c-6881cb177b4a"
+    },
+
+    {
+        "id": 11,
+        "idCategoria": 5,
+        "nombre": "Hamburguesa con papas fritas y bebida",
+        "contenido": "Hamburguesa a elección con papas fritas y bebida a elección",
+        "precio": 2100,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/hamburguesaink.jpg?alt=media&token=1c211e18-33f9-4621-a227-47581a628363"
+    },
+
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "nombre": "Empanadas",
+        "contenido": "8 Empanadas con sabor a elección",
+        "precio": 1700,
+        "stock": 30,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/empanadas.jpg?alt=media&token=7dc9ed22-788b-4a87-a06f-7e2bf0191fc3"
+    },
+
+    {
+        "id": 13,
+        "idCategoria": 1,
+        "nombre": "Pizza Peperoni",
+        "contenido": "Peperoni",
+        "precio": 1900,
+        "stock": 47,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/cuadrada.jpg?alt=media&token=0f2b568b-c3dd-4547-a322-da9565705bd6"
+    },
+
+    {
+        "id": 14,
+        "idCategoria": 1,
+        "nombre": "5 Pizzas",
+        "contenido": "5 pizzas a elección",
+        "precio": 8100,
+        "stock": 47,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/combopizza.jpg?alt=media&token=25022bb1-68c2-4cee-84d2-e1b63edabe1e"
+    },
+
+    {
+        "id": 15,
+        "idCategoria": 1,
+        "nombre": "Casera",
+        "contenido": "Pizza casera de la casa",
+        "precio": 1800,
+        "stock": 47,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/casera.jpg?alt=media&token=ce9dbd30-eb4e-453a-a4a7-9efdb83c3fe7"
+    },
+
+    {
+        "id": 16,
+        "idCategoria": 3,
+        "nombre": "Hamburguesas",
+        "contenido": "Cinco hamburguesas con cheddar",
+        "precio": 4500,
+        "stock": 47,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/burgers.jpg?alt=media&token=5514fd9b-3d93-4a1b-bf02-a64100e0bdb3"
+    },
+
+    {
+        "id": 17,
+        "idCategoria": 3, 
+        "nombre": "Burga",
+        "contenido": "Burga con todo lo que quieras ponerle!",
+        "precio": 2400,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/burga.jpg?alt=media&token=628f8b69-4df7-4b9e-97b0-54c396e6d0ba"
+    },
+
+    {
+        "id": 18,
+        "idCategoria": 3,
+        "nombre": "Doble Kill",
+        "contenido": "Hamburguesa de pollo crispy con salsa",
+        "precio": 2100,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/asquerosa.jpg?alt=media&token=fb5a8b98-b2b9-4098-8262-7d9139c654bc"
+    },
+
+    {
+        "id": 19,
+        "idCategoria": 2,
+        "nombre": "Pizza Vegana",
+        "contenido": "Con aceitunas!",
+        "precio": 1900,
+        "stock": 28,
+        "img": "https://firebasestorage.googleapis.com/v0/b/proyectofinal-froidevaux.appspot.com/o/aceitunas.jpg?alt=media&token=c2175132-a9ad-4028-8183-eec628a6e58d"
+    }
+
+]
