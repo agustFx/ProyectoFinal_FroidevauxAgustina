@@ -16,3 +16,7 @@ Tecnologias utilizadas 🛠
 [Firebase] (https://firebase.google.com/) - Servidor y BDD en la nube
 
 [Bootstrap] (https://getbootstrap.com/) - Framework de CSS
+
+
+Drive con video de demostración del proyecto - (https://drive.google.com/file/d/1irV9zmDsDKhVSDsMiUC4YA8o8UClLrPW/view?usp=sharing)
+Vercel - ()
